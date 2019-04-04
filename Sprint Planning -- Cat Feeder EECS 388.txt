@@ -1,0 +1,42 @@
+﻿Desiree - Scrum Master, Developer
+Evelyn - Developer,  Product Owner
+Taylor - Developer, Tester
+
+
+Product and Release Planning
+1. Identify Scrum team roles (done)
+2. Create product features / Release Backlog -- generated form features in preliminary design report (Evelyn)
+3. Break down into user stories, i.e. features, from your function descriptions into tasks and estimate hours for each task
+4. Decide which user stories will go into your product release sprint
+   1. Automatic Feeding times
+      1. “As a busy person with a cranky cat, I want a cat feeder that automatically dispenses cat food without scoops or bags of food, so that I can quickly feed my cat without any messes.”
+   1. Dosing at push of a button
+      1. “As an owner of an overweight
+
+
+Sprint Planning
+1. User stories - Bing Bong/Taylor?
+2. Schedule “daily” scrum, record notes (Taylor/Desiree) and email to Dr. Williams
+3. Scrum master (Desiree) makes burn-down chart and emails it to Dr. Williams
+4. Product owner (Evelyn) makes scrum board and emails it to Dr. Williams
+5. Set up  a GitHub (Taylor)
+6. Set up Version One or Equivalent (Evelyn)
+7. Summary Power Point Presentation due April 18 and May 2 (Everyone!)
+8. Get user feedback after first sprint
+
+
+
+
+
+
+
+
+Meeting Notes 
+
+
+   * April 2, 2019 - in-class
+   * Initial meeting to outline first sprint and assign roles
+   * We will all be developers (and testers in some capacity), Desiree will be the scrum master, Evelyn will be product owner, and Taylor will help the scrum master with scrum meeting notes
+   * Taylor will set up GitHub and write first user story (about himself and his cat)
+   * Desiree will begin creating burndown chart
+   * Evelyn will choose a software to create and manage the Scrum Board
