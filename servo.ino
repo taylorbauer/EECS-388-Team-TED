@@ -4,6 +4,7 @@
 Servo myservo; //create servo object to control servo
 const int buttonPin = 2; //the pin for the button
 int buttonState = 0; // the state of the button (defaults to 0)
+bool lastButtonState = LOW; // a variable that tracks the previous button state
 
 // Setup:
 void setup() {
@@ -23,8 +24,11 @@ void loop() {
   
       myservo.write(20); 
       delay(500);
-    
+
+      lastButtonState = HIGH;
+      
     } else {
+      latButtonState = LOW;
       delay(10);
     }
   }
