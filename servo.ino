@@ -15,16 +15,17 @@ void setup() {
 void loop() {
 
   buttonState = digitalRead(buttonPin);  // check the state of the button (this is so easy compared to lab!)
+  if (buttonState != lastButtonState) {
+    if (buttonState == HIGH) {  // move the servo if the button is pressed
 
-  if (buttonState == HIGH) {  // move the servo if the button is pressed
-
-    myservo.write(180); //degree of movement
-    delay(500);         //0.5 sec delay
+      myservo.write(180); //degree of movement
+      delay(500);         //0.5 sec delay
   
-    myservo.write(20); 
-    delay(500);
-
-  } else {
-    delay(10);
+      myservo.write(20); 
+      delay(500);
+    
+    } else {
+      delay(10);
+    }
   }
 }
